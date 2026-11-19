@@ -1,0 +1,18 @@
+{
+  "name": "Jot",
+  "url": "https://sayjot.xyz/#pricing",
+  "platforms": ["macOS"],
+  "category": "productivity",
+  "description": "Local-first notes inbox. Select text, tap Shift twice, and it is a Markdown file in a folder you own. Dictation, reminders, and an MCP server for agents.",
+  "discount": "69% off ($29 → $9)",
+  "prices": [
+    { "plan": "1 Mac, lifetime", "before": 29, "after": 9 },
+    { "plan": "3 Macs, lifetime", "before": 87, "after": 24 },
+    { "plan": "10 Macs, lifetime", "before": 290, "after": 69 }
+  ],
+  "starts": "2026-11-20",
+  "ends": "2026-12-01",
+  "terms": "No code; applied at checkout. One-time purchase, 3-day free trial.",
+  "maker": "Mohak Bajaj",
+  "makerUrl": "https://x.com/MohakBajaj5"
+}
